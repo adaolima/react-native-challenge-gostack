@@ -21,6 +21,11 @@ Run Emulador IOS in MAC
 ```shell
 cd ios && pod install
 ```
+Back to root folder
+
+```shell
+cd ..
+```
 
 ```shell
 react-native run-ios --simulator "iPhone 11 Pro Max"
